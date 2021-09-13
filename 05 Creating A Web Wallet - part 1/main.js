@@ -1,8 +1,8 @@
 console.log('hello world');
 
 // MY SERVER
-Moralis.initialize("APP ID");
-Moralis.serverURL = "SERVER URL";
+Moralis.initialize("UBwxJR9O21nFiJBuxDM5Md354rgfS797z8QK5azI");
+Moralis.serverURL = "https://hjztkn5lpl56.bigmoralis.com:2053/server";
 
 let homepage = "http://127.0.0.1:5501/index.html";
 let dashboard = "http://127.0.0.1:5501/dashboard.html";
